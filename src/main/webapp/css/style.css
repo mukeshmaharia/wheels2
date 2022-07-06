@@ -2388,7 +2388,7 @@ input[type=checkbox]:checked + label:before {
     opacity: .5;
 }
 
-.car-model-2 .modal-left-content .carousel-inner {
+.car-model-2 .modal-left-content . {
     display: flex;
 }
 

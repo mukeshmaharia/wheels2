@@ -1,0 +1,14 @@
+<div class="intro-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9 col-md-8 col-sm-12">
+                <div class="intro-text">
+                    <h3>Do You Have Questions ?</h3>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-12">
+                <a href="/wheels2/contact" class="btn btn-md">Get in Touch</a>
+            </div>
+        </div>
+    </div>
+</div>
